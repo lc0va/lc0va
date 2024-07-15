@@ -1,4 +1,5 @@
 # Lucas Cova *(lc0va)*
+Estou cursando Análise e Desenvolvimento de Sistemas e estou estudando a área de AWS para complementar meus conhecimentos.
 
 ## Conecte-se comigo:
 
